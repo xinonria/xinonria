@@ -1,6 +1,6 @@
 ## Hi there! I am Xinonria.👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinonria&count_private=true)
+![Anurag's GitHub stats](https://status-git-main-xinonrias-projects-f26540e3.vercel.app/api?username=xinonria)
 
 <!--
 **xinonria/xinonria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
