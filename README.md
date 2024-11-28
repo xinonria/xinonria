@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://status-git-main-xinonrias-projects-f26540e3.vercel.app/api?username=xinonria)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!--
 **xinonria/xinonria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
