@@ -1,6 +1,6 @@
 ## Hi there! I am Xinonria.👋
 
-![Anurag's GitHub stats](https://status-git-main-xinonrias-projects-f26540e3.vercel.app/api?username=xinonria&hide=stars,issues&rank_icon=percentile)
+![Anurag's GitHub stats](https://status-git-main-xinonrias-projects-f26540e3.vercel.app/api?username=xinonria&hide=stars,issues)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
