@@ -3,23 +3,23 @@
 ![Anurag's GitHub stats](https://status-git-main-xinonrias-projects-f26540e3.vercel.app/api?username=xinonria&hide=stars,issues)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-958.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-961.3%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
-Python                   6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.84 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Prisma                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.97 % 
+TypeScript               6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
+Other                    2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Prisma                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 
 
- Last Updated on 16/01/2025 22:12:24 UTC
+ Last Updated on 17/01/2025 22:11:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
