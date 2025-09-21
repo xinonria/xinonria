@@ -5,10 +5,21 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.7%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   20 hrs 46 mins      ██████████████████████░░░   86.39 % 
+Go                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+```
 
 
- Last Updated on 20/09/2025 22:14:37 UTC
+ Last Updated on 21/09/2025 22:15:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
