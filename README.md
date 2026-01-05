@@ -3,23 +3,23 @@
 ![Anurag's GitHub stats](https://status-git-main-xinonrias-projects-f26540e3.vercel.app/api?username=xinonria&hide=stars,issues)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.54%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.64%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-C                        3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Markdown                 2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Other                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Python                   4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
+Markdown                 2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Other                    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+CSV                      1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 ```
 
 
- Last Updated on 04/01/2026 22:18:08 UTC
+ Last Updated on 05/01/2026 22:18:53 UTC
 <!--END_SECTION:waka-->
 
 <!--
