@@ -5,21 +5,21 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.99%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   50.93 % 
-HTML                     2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
-Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Python                   6 hrs 10 mins       █████████████████░░░░░░░░   66.91 % 
+HTML                     2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 
- Last Updated on 13/02/2026 22:30:37 UTC
+ Last Updated on 14/02/2026 22:20:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
