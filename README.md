@@ -11,13 +11,12 @@
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             ███████████████████████░░   90.41 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   17 mins             ███████████████████████░░   92.82 % 
+Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 
- Last Updated on 22/03/2026 22:22:38 UTC
+ Last Updated on 23/03/2026 22:29:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
