@@ -5,18 +5,17 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.30%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             ███████████████████████░░   92.82 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Python                   5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 22:29:22 UTC
+ Last Updated on 24/03/2026 22:27:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
