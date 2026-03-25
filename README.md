@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://status-git-main-xinonrias-projects-f26540e3.vercel.app/api?username=xinonria&hide=stars,issues)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -15,7 +15,7 @@ Python                   5 mins              ███████████�
 ```
 
 
- Last Updated on 24/03/2026 22:27:44 UTC
+ Last Updated on 25/03/2026 22:33:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
